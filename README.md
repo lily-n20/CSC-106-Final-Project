@@ -1,5 +1,7 @@
 # CSC-106-Final-Project
 
+Link to game: https://www.khanacademy.org/computer-programming/lily-kat-final-game/4636391643856896
+
 <img width="320" alt="Screenshot 2024-01-11 at 8 42 16 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/0ffd1f71-a920-4d4a-b6f7-1a7375c9844c">
 <img width="320" alt="Screenshot 2024-01-11 at 8 42 24 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/841ebc44-90fd-4469-9a9e-41f40ca17497">
 <img width="322" alt="Screenshot 2024-01-11 at 8 42 31 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/9f62b624-eab9-4a48-b025-2791a734f7fc">
