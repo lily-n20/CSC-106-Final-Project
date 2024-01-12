@@ -1,5 +1,7 @@
 # CSC-106-Final-Project
 
+SpaceStar ⭐️
+
 Link to game: https://www.khanacademy.org/computer-programming/lily-kat-final-game/4636391643856896
 
 <img width="320" alt="Screenshot 2024-01-11 at 8 42 16 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/0ffd1f71-a920-4d4a-b6f7-1a7375c9844c">
