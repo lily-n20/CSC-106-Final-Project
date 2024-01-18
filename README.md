@@ -7,6 +7,7 @@ Link to game: https://www.khanacademy.org/computer-programming/lily-kat-final-ga
 
 
 # SpaceStar ⭐️ is a peer-programming project. 
+We learned how to idealize and brainstorm a project, the SCRUM process, and effective collaboration using github.
 
 <img width="322" alt="Screenshot 2024-01-11 at 8 42 31 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/9f62b624-eab9-4a48-b025-2791a734f7fc">
 <img width="321" alt="Screenshot 2024-01-11 at 8 43 00 PM" src="https://github.com/lily-n20/CSC-106-Final-Project/assets/113320013/1c9c5aa8-2bd7-47c7-9348-487b9ac5eeed">
